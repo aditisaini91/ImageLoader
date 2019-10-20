@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "be249fee4e45597ad32c472e5a47c5b1"
+build_time: [1567005659, 331776000]
+inputs:
+  "/Users/h231412/Downloads/ImageLoader/ImageLoader/Cell/ImageCollectionViewCell.swift": [1567004745, 541014352]
+  "/Users/h231412/Downloads/ImageLoader/ImageLoader/ViewController.swift": [1567005659, 283805358]
+  "/Users/h231412/Downloads/ImageLoader/ImageLoader/AppDelegate.swift": [1566984736, 25369200]
